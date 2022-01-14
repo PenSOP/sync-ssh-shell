@@ -7,3 +7,5 @@ Mediante estas utilidades también podrá llegar a sincronizar otros directorios
 
  * Preparados para sincronizar las instalaciones tanto de Base de Datos como de ficheros de otros proveedores tales como Bitnami.
  * Posibilidad de llevar a cabo la sincronización en proveedores cloud o en servidores del cliente
+
+1
